@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+.a1{
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    /* margin-top: 10%; */
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}

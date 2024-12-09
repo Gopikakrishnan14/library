@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(158, 117, 68);
+}
+img{
+    display: block;        /* Makes the image a block-level element */
+            margin: 0 auto;        /* Centers the image horizontally */
+            max-width: 100%;
+            height: auto;
+}
+h3{
+    text-align: center;
+}

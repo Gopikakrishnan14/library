@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10%;
+    background-color: rgb(90, 145, 90);
+}
+
+h2 {
+    font-size: 1.8rem;
+    line-height: 1.5;
+}
+
+form .form-control {
+    height: 50px;
+    font-size: 1rem;
+}
+
+button {
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    max-height: 500px;
+}
